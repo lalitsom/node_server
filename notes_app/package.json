@@ -1,0 +1,23 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "Learning node servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalitsom/node_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalitsom/node_server/issues"
+  },
+  "homepage": "https://github.com/lalitsom/node_server#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "yargs": "^15.0.2"
+  }
+}
